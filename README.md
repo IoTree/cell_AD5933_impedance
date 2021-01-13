@@ -26,4 +26,4 @@ Das Gateway kann auf dem gleichen RPI installiert werden.
 
 ### Image of the first prototype
 3D pritited cover with gold electrodes conected to the two 16 channel MUX and the AD5933 (from PMODIA DIGILENT)
-![alt text](https://https://github.com/IoTree/cell_AD5933_impedance/blob/main/Prototype.jpg)
+![alt text](https://github.com/IoTree/cell_AD5933_impedance/blob/main/Prototype.jpg)
