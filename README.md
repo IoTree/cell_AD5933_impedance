@@ -23,3 +23,7 @@ Then everything should work and the measurement network can start by setting the
 For sending the data via MQTT a local broker must be installed.
 Bitte schauen Sie sich mein anderes Projekt IoTree42 an, das als IoT-Plattform verwendet werden kann, auf der die Daten gespeichert und nachgeschlagen werden können.
 Das Gateway kann auf dem gleichen RPI installiert werden.
+
+### Image of the first prototype
+3D pritited cover with gold electrodes conected to the two 16 channel MUX and the AD5933 (from PMODIA DIGILENT)
+![alt text](https://https://github.com/IoTree/cell_AD5933_impedance/blob/main/Prototype.jpg)
